@@ -1,0 +1,367 @@
+/*  Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .slider-content p {
+        font-size: 10px;
+        width: 50%;
+    }
+
+    .slider-content {
+        margin-left: 15px;
+        padding: 40px 0 20px 0;
+    }
+
+    .slider-content h2 {
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+
+    .slider-content h5 {
+        font-size: 12px;
+        padding-bottom: 10px;
+        width: 60%;
+    }
+
+    .icon ul {
+        margin-left: 0px;
+    }
+
+    .icon ul li {
+        font-size: 25px;
+        padding: 0px 10px 20px 10px;
+    }
+
+    .image {
+        padding: 0;
+        margin-left: 280px;
+        width: 160px;
+        float: left;
+        position: relative;
+        top: -250px;
+        left: 70px;
+    }
+
+    .icon ul li {
+        font-size: 25px;
+        padding: 0px 10px 0px 10px;
+    }
+
+    .service-content p {
+        font-size: 14px;
+        width: 90%;
+        padding-top: 10px;
+    }
+
+    .text-part {
+        padding: 20px 0 20px 0;
+        text-align: center;
+    }
+
+    .image-part {
+        left: 150px;
+    }
+
+
+    .content-part p {
+        font-size: 14px;
+        width: 60%;
+        margin: 0 auto;
+        padding-top: 20px;
+    }
+
+    .content-part h4 {
+        text-align: center;
+    }
+
+    #navber-aria {
+        background-color: #fcdb00;
+        padding-top: 20px;
+    }
+
+    .slider-content h2 {
+        font-size: 15px;
+        padding-bottom: 5px;
+    }
+
+    .slider-content h5 {
+        font-size: 10px;
+        padding-bottom: 5px;
+        width: 50%;
+    }
+
+    .slider-content p {
+        font-size: 8px;
+        width: 46%;
+    }
+
+    .slider-content p {
+        padding-bottom: 0px;
+    }
+
+    .image {
+        margin-left: 280px;
+        width: 100px;
+        top: -244px;
+        left: -95px;
+    }
+
+    .indicator ol li {
+        margin-bottom: 85px;
+    }
+
+    .content-part h4 {
+        font-size: 15px;
+    }
+
+    .image-part {
+        left: 25px;
+    }
+
+    .content-part p {
+        font-size: 12px;
+        width: 90%;
+        padding-top: 0px;
+    }
+
+    .fast-text-aria h2 {
+        font-size: 20px;
+    }
+
+    .fast-text-aria form input {
+        margin-left: -10px;
+        padding: 3px 0px;
+    }
+
+    .fast-text-aria form button {
+        padding: 4px 9px;
+        margin-left: -10px;
+    }
+
+    .last-icon ul li {
+        font-size: 25px;
+        padding: 0px 20px;
+    }
+
+    dl,
+    ol,
+    ul {
+        margin-top: 0;
+        margin-bottom: 3rem;
+    }
+
+    .last-icon ul {
+        padding-top: 30px;
+    }
+
+    .fast-text-aria p {
+        font-size: 14px;
+        width: 100%;
+    }
+
+    .fast-side h5 {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .content-part p {
+        width: 45%;
+    }
+
+    .image-part {
+        left: 145px;
+    }
+
+    .image {
+        margin-left: 280px;
+        width: 120px;
+        top: -90px;
+        left: 90px;
+    }
+
+    .img-content-common h2 {
+        margin-top: 640px;
+    }
+
+    .sign-content h4 {
+        font-size: 7px;
+        left: 143px;
+    }
+
+    .sign-content h4 {
+        top: 153px;
+    }
+
+    .sign-content img {
+
+        left: 235px;
+        top: 152px;
+        width: 20px;
+    }
+
+
+}
+
+/*  Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    .slider-content {
+        margin-left: 15px;
+        padding: 40px 0 20px 0;
+    }
+
+    .slider-content h2 {
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+
+    .slider-content h5 {
+        font-size: 14px;
+        padding-bottom: 10px;
+        width: 130%;
+    }
+
+    .slider-content p {
+        font-size: 13px;
+        padding-bottom: 0px;
+        width: 135%;
+    }
+
+    .icon ul {
+        margin-left: 0px;
+    }
+
+    .icon ul li {
+        font-size: 25px;
+        padding: 0px 10px 20px 10px;
+    }
+
+    .image {
+        padding: 60px 0;
+        margin-left: 75px;
+    }
+
+    .service-content p {
+        font-size: 14px;
+        width: 100%;
+        padding-top: 10px;
+    }
+
+    .content-part p {
+        font-size: 15px;
+        width: 110%;
+    }
+
+    .content-part h4 {
+        font-size: 16px;
+    }
+
+    .fast-text-aria h2 {
+        font-size: 25px;
+    }
+
+    .fast-text-aria p {
+        font-size: 14px;
+        padding-top: 10px;
+        width: 90%;
+    }
+
+    .fast-text-aria form input {
+        margin-left: 40px;
+        padding: 10px 80px;
+    }
+
+}
+
+/*  Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .slider-content h2 {
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+
+    .slider-content h5 {
+        font-size: 15px;
+        font-weight: 400;
+        padding-bottom: 10px;
+        width: 100%;
+    }
+
+    .slider-content p {
+        font-size: 12px;
+        font-weight: 300;
+        padding-bottom: 0px;
+    }
+
+    .slider-content {
+        margin-left: 35px;
+        padding: 15px 0 5px 0;
+    }
+
+    .image {
+        padding: 15px 0;
+        margin-left: 130px;
+    }
+
+    #navber-aria {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .content-part h4 {
+        font-size: 16px;
+
+    }
+
+    .content-part p {
+        font-size: 12px;
+        width: 110%;
+    }
+
+    .service-content p {
+        font-size: 16px;
+        width: 90%;
+        padding-top: 10px;
+    }
+
+    .fast-text-aria p {
+        width: 85%;
+    }
+
+    .fast-text-aria form input {
+        margin-left: 80px;
+        padding: 10px 90px;
+    }
+
+
+}
+
+/*  Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    .fast-text-aria form input {
+        text-align: center;
+        margin-left: 210px;
+        padding: 10px 110px;
+    }
+
+    .content-part p {
+        width: 100%;
+    }
+
+    .image {
+        padding: 60px 0 0 0;
+        margin-left: 180px;
+        margin-right: 50px;
+    }
+
+    .navber-site ul li {
+        padding: 0 20px;
+    }
+
+    .slider-content {
+        margin-left: 25px;
+        padding: 70px 0 0px 0;
+    }
+}
+
+/*  Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {}

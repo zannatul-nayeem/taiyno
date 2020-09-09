@@ -1,0 +1,256 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans', sans-serif;
+}
+
+html {
+
+    scroll-behavior: smooth;
+}
+
+/*its for nevber*/
+#navber-aria {
+    background-color: #fcdb00;
+    padding-top: 70px;
+}
+
+.navber-site ul {
+    text-align: right;
+    margin-left: 350px;
+
+
+}
+
+.navber-site ul li {
+    font-size: 22px;
+    padding: 0 40px;
+    font-weight: 700;
+}
+
+/*end header*/
+
+
+/*its for slider part*/
+
+#slider-part {
+    background-color: #fcdb00;
+
+}
+
+.slider-content {
+    margin-left: 25px;
+    padding: 120px 0 30px 0;
+}
+
+
+.slider-content h2 {
+    font-size: 35px;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+
+.slider-content h5 {
+    font-size: 20px;
+    font-weight: 500;
+    padding-bottom: 20px;
+    width: 85%;
+}
+
+.slider-content p {
+    font-size: 16px;
+    font-weight: 500;
+    padding-bottom: 20px;
+    text-align: justify
+}
+.image2{
+    
+}
+
+.image {
+    padding: 60px 0;
+    margin-left: 150px;
+}
+
+.icon ul {
+    margin-left: 25px;
+
+}
+
+.icon ul li {
+    font-size: 45px;
+    padding: 0px 20px;
+
+}
+
+.icon ul li a {
+    color: black;
+}
+
+
+
+.indicator li {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+
+}
+
+/*end of slider part*/
+
+/*service part start*/
+
+#service-aria {
+    padding: 70px 0px;
+}
+
+.service-content {
+    text-align: center;
+}
+
+.service-content h2 {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.service-content p {
+    font-size: 20px;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.text-part {
+    padding: 70px 0 40px 0;
+}
+
+.image-part {
+    position: absolute;
+
+}
+
+.content-part {
+    margin-left: 65px;
+    margin-bottom: 60px;
+    position: relative;
+}
+
+.content-part h4 {
+    font-size: 22px;
+    font-weight: 600;
+
+}
+
+.content-part p {
+    font-size: 16px;
+    font-weight: normal;
+    text-align: justify;
+    width: 80%;
+}
+
+/*service part end*/
+
+/*footer aria START*/
+
+#footer-aria {
+    padding: 70px 0px;
+    background-color: black;
+}
+
+.fast-text-aria {}
+
+.fast-text-aria h2 {
+    font-size: 32px;
+    color: #fcdb00;
+    font-weight: 700;
+}
+
+.fast-text-aria p {
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: normal;
+    padding-top: 20px;
+    width: 55%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.fast-text-aria form {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.fast-text-aria form input {
+    text-align: center;
+    margin-left: 260px;
+    padding: 10px 130px;
+}
+
+.fast-text-aria form button {
+    background-color: #fcdb00;
+    color: black;
+    padding: 6px 20px;
+    margin-left: 10px;
+}
+
+.last-aria {
+    padding: 100px 0;
+}
+
+.last-icon ul {
+    padding-top: 70px;
+    text-align: center;
+
+}
+
+.last-icon ul li {
+    font-size: 45px;
+    padding: 0px 20px;
+
+}
+
+.last-icon ul li a {
+    background-color: #fcdb00;
+    color: black;
+    border-radius: 7px;
+}
+
+
+
+.fast-side h5 {
+    font-size: 14px;
+    color: #ffffff;
+    line-height: 25px;
+}
+
+.fast-side h6 {
+    font-size: 14px;
+    color: #ffffff;
+    line-height: 25px;
+}
+
+.footer-menu-side ul li {
+    list-style: none;
+}
+
+.footer-menu-side ul li a {
+    color: #ffffff;
+}
+
+.footer-menu-side ul li a:hover {
+    text-decoration: none;
+}
+
+.name-part {
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px 0 0 0;
+}
+
+.name-part p {
+    font-size: 16px;
+    color: #dddddd;
+    text-transform: capitalize;
+}
+
+/*footer aria END*/
